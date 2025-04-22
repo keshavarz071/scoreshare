@@ -1,0 +1,1 @@
+import React from 'react'; import ReactDOM from 'react-dom/client'; import ScoreshareWebApp from './ScoreshareWebApp'; ReactDOM.createRoot(document.getElementById('root')).render(<React.StrictMode><ScoreshareWebApp /></React.StrictMode>);
